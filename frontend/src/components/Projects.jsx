@@ -22,12 +22,12 @@ const projectsData = [
     },
     {
         id: 3,
-        title: 'College Portal Website',
-        description: 'A comprehensive college portal featuring student dashboards, course management, and administrative tools for academic excellence.',
-        image: '/college_portal.png',
-        tags: ['React', 'Node.js', 'Express', 'Tailwind'],
+        title: 'Personal Portfolio',
+        description: 'A premium MERN stack portfolio with glassmorphism design, animated sections, and automated Gmail inquiry notifications.',
+        image: '/portfolio.png',
+        tags: ['React', 'Node.js', 'Framer Motion', 'Tailwind'],
         demoUrl: '#',
-        githubUrl: 'https://github.com/normal-hacker/ARA_firstweb.git',
+        githubUrl: 'https://github.com/shadow-071211/protfolio',
     },
     {
         id: 4,
